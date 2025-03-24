@@ -1,6 +1,7 @@
 # POO2 - PROGRAMACIÓN ORIENTADA A OBJETOS: PARTE 2
 
-![imagen de POO](https://cdn.goconqr.com/uploads/media/image/22865637/desktop_590dac03-e90a-449a-8d35-7189329b9799.jpg)
+![imagen de POO](https://javaprogram101.wordpress.com/wp-content/uploads/2018/05/programacion-orientada-objetos.jpg?w=1200&h=800&crop=1)
+
 
 ## Introducción
 Este repositorio está destinado a los estudiantes que continúan con el aprendizaje de Java en el contexto de la Programación Orientada a Objetos (POO). En esta fase se profundiza en conceptos más avanzados como **static**, **herencia**, **polimorfismo**, **clases genéricas**, **ArrayList**, **Collections**, **bucles anidados**, **arrays bidimensionales**, **enums**, y el uso de **lambdas** e **interfaces funcionales**.
