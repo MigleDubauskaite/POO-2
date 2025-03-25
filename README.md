@@ -126,4 +126,6 @@ lista.forEach(s -> System.out.println(s));
 
 *** 
 ## Recursos Adicionales
+* [w3schools - Herencia](https://www.w3schools.com/java/java_inheritance.asp)
+* [w3schools - Poliformismo](https://www.w3schools.com/java/java_polymorphism.asp)
 
